@@ -5,7 +5,7 @@ import UserAPI from './UserAPI';
 
 function App() {
   const users = ['Alice', 'Bob', 'Charlie'];
-  const isLoggedIn = false;
+  const isLoggedIn = true;
 
   return (
     <div>
